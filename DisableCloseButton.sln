@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableCloseButton", "DisableCloseButton\DisableCloseButton.csproj", "{9E449E38-7962-425A-A4FA-3312ABC26E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E449E38-7962-425A-A4FA-3312ABC26E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E449E38-7962-425A-A4FA-3312ABC26E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E449E38-7962-425A-A4FA-3312ABC26E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E449E38-7962-425A-A4FA-3312ABC26E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B04500-4D14-45D0-93CC-7A2A48A8A4B1}
+	EndGlobalSection
+EndGlobal
